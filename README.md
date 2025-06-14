@@ -1,2 +1,2 @@
 # ReHGD
-Code for [**Reinforced Heterogeneous Graphlet Design for Knowledge Graph Representation Learning**].
+Resource for [**Reinforced Heterogeneous Graphlet Design for Knowledge Graph Representation Learning**].
